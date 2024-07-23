@@ -1,3 +1,5 @@
+pip install opencv-python-headless
+
 import cv2
 import dlib
 import numpy as np
